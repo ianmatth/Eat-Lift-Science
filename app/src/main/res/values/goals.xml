@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="goals">
+        <item>Lose Fat</item>
+        <item>Maintain</item>
+        <item>Reverse Diet</item>
+        <item>Gain Muscle</item>
+    </string-array>
+</resources>
